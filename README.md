@@ -1,1 +1,1 @@
-react-hw-02-phonebook
+phone book for recording and editing contacts
